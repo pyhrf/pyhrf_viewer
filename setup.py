@@ -34,7 +34,7 @@ setup(
     packages = find_packages(),
     include_package_data = True,
     scripts = ["bin/pyhrf_view", "bin/pyhrf_xmledit"],
-    install_requires = ["pyhrf", "pyqt4"],
+    install_requires = ["pyhrf"],
     classifiers=[
         "Environment :: X11 Applications :: Qt",
         "Intended Audience :: Science/Research",
