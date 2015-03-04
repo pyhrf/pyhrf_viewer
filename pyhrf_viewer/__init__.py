@@ -6,4 +6,4 @@
 This is design to work with the PyHRF package but it should work with any Nifti
 files."""
 
-__version__ = "0.0.1"
+__version__ = "0.1.0"
